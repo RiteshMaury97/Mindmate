@@ -51,7 +51,7 @@ export const Hero = () => {
           {[
             { number: "10K+", label: "Active Users" },
             { number: "50K+", label: "Conversations" },
-            { number: "4.9/5", label: "User Rating" },
+            { number: "4.7/5", label: "User Rating" },
           ].map((stat, i) => (
             <div 
               key={i} 
