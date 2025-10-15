@@ -1,6 +1,6 @@
-hello dev to dsa
-this is sneha balodi representing team diamond 
-this is our project mindmate
+**Hello Dev to Dsa**
+This is Sneha Balodi representing team diamond 
+This is our project **Mindmate**
 an app based on ai, that can chat with you, this is specially designed for people facing stress, depression issues 
 we have included a lot features in this prototype
 this is just a offline demo, and AI model might not work as expected.
